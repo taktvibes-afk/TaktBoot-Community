@@ -1,0 +1,6 @@
+TaktBoot Community public certificate SHA-256 fingerprint
+Status: PENDING
+
+The public CER file was not available as file input while Build 0002 source package was generated.
+Copy TaktVibes_TaktBoot_Community.cer into this directory and run fingerprint_sha256.cmd.
+Do not invent or manually guess a fingerprint.

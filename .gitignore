@@ -1,0 +1,36 @@
+# TaktBoot Community - Git ignore rules
+# Build output / local compiler artifacts
+build/
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.map
+*.log
+
+# Private signing material - NEVER commit
+*.pfx
+*.p12
+*.pvk
+*.key
+*.pem
+*.pkcs12
+*.snk
+
+# Local editor / IDE files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# Windows temporary files
+Thumbs.db
+Desktop.ini
+*.tmp
+*.bak
+~$*

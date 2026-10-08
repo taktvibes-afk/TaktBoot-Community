@@ -1,0 +1,17 @@
+# Text normalization for a mixed Windows/GitHub project
+* text=auto
+
+# Windows command scripts must stay CRLF friendly
+*.cmd text eol=crlf
+*.bat text eol=crlf
+
+# Source and documentation
+*.c text eol=lf
+*.h text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+
+# Binary certificate files must never be line-ending converted
+*.cer binary
+*.der binary
+*.efi binary

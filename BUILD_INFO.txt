@@ -1,0 +1,19 @@
+TaktBoot Community
+Version: 0.1.0
+Build: 0002
+Build Date: 2026-10-05
+Vendor: TaktVibes
+Channel: Official / Learning
+Target: x86_64 / UEFI
+
+Package state:
+Source package prepared and statically reviewed.
+Official local MSVC build metadata is written/updated by build.cmd.
+
+Toolchain target:
+Microsoft Visual C/C++ x64 (Visual Studio 2019/2022 Developer Command Prompt)
+
+Security:
+EFI SHA-256: generated after successful local build
+Certificate SHA-256 fingerprint: generated after public CER is placed in cert\\
+Private PFX: must remain outside this project

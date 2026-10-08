@@ -1,0 +1,4 @@
+# TaktBoot Community 0.1.0 Build 0002
+# This file is overwritten by build.cmd after a successful local build.
+# No official MSVC BOOTX64.EFI hash exists in this source package yet.
+# Run build.cmd first.
